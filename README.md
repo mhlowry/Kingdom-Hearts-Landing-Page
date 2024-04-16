@@ -6,3 +6,6 @@
  Image credit for the random Kingdom Hearts picture is from AeroRyuu on DeviantArt.
 
  https://www.deviantart.com/aeroryuu/art/Kingdom-Hearts-PNG-265386760
+
+Random facts came from:
+https://screenrant.com/hidden-details-things-didnt-know-kingdom-hearts-video-games/

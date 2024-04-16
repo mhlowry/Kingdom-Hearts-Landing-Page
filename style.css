@@ -4,6 +4,7 @@ flex-direction: column;
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-style: normal;
+margin: 0;
 }
 
 #header {
@@ -83,6 +84,33 @@ font-style: normal;
     display: flex;
     flex-direction: column;
     align-items: center;
+    
+}
+
+.random-info-boxes {
+    display: flex;
+    gap: 2em;
+    padding: 2% 10% 5% 10%;
+}
+
+.info-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.info-box p {
+    text-align: center;
+    width: 70%;
+}
+
+.info-box img {
+    border: 5px solid blue;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;
 }
 
 #thor-quote {

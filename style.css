@@ -115,10 +115,21 @@ margin: 0;
 
 #thor-quote {
 background-color: #E5E7EB;
+color: #1F2937;
+font-size: 36px;
+font-weight: light;
+font-style: italic;
+padding: 2% 10% 5% 10%;
+}
+
+.sora {
+    font-weight: bold;
+    text-align: end;
 }
 
 #call-to-action {
  background-color: #3882F6;
+ padding: 2% 10% 5% 10%;
 }
 
 /* #footer {

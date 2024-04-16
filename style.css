@@ -129,7 +129,36 @@ padding: 2% 10% 5% 10%;
 
 #call-to-action {
  background-color: #3882F6;
- padding: 2% 10% 5% 10%;
+ margin: 5% 10% 5% 10%;
+ padding: 1% 10% 1% 10%;
+ display: flex;
+ align-items: center;
+ gap: 3em;
+ border-radius: 12px;
+}
+
+.action-text {
+    margin-right: auto;
+    color: white;
+    justify-self: flex-start;
+}
+
+.action-text p {
+    margin-top: 0;
+    font-size: 14px;
+}
+
+.action-text h2 {
+    margin-bottom: 5px;
+}
+
+.action-button button {
+    padding: 7px 10px 7px 10px;
+    width: 100px;
+    border-radius: 12px;
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
 }
 
 /* #footer {
